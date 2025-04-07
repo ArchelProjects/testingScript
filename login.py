@@ -19,8 +19,8 @@ password.send_keys("Dost2123")
 login_button.click()
 time.sleep(5)
 
-audit_tab = wait(driver, 10).until(EC.element_to_be_clickable((By.ID, "audit")))
-audit_tab.click()
+#audit_tab = wait(driver, 10).until(EC.element_to_be_clickable((By.ID, "audit")))
+#audit_tab.click()
 
 actual_title = driver.title
 expected_title = "Dashboard"
