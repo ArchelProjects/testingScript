@@ -40,5 +40,5 @@ def calculator():
 if __name__ == "__main__":
     calculator()
 
-#example script for calculatorsssss
+#example script for calculator
 #push and pull
