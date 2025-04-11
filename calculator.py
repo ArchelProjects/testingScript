@@ -42,3 +42,4 @@ if __name__ == "__main__":
 
 #example script for calculator
 #push and pull
+#calculator function
